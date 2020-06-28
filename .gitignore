@@ -21,12 +21,11 @@ composer.lock
 *.swo
 
 # Project Specific
-node_modules
+/node_modules
 *.log
-lib
+/lib
 tmp
 .changelog
 coverage/
 .nyc_output/
 .eslintcache
-*.tgz
